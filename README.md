@@ -32,7 +32,7 @@ Criar um sistema onde seja possível:
     - Contato do proprietário para negociar
 
 ## Entidades
-
+```Odin
 Endereço :: Estado, Cidade, Bairro, Rua, Número, Complemento
 
 Dimensões :: Altura, Largura, Comprimento
@@ -92,4 +92,4 @@ Banheiro :: Banheira, Box
 Sala :: Móveis
 Cozinha :: Móveis
 Móveis :: TV, Estante, Sofá, Poltrona, Cadeira
-
+```
