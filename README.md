@@ -33,6 +33,7 @@ Criar um sistema onde seja possível:
 
 ## Entidades
 
+```
 Endereço :: Estado, Cidade, Bairro, Rua, Número, Complemento
 
 Dimensões :: Altura, Largura, Comprimento
@@ -92,3 +93,4 @@ Banheiro :: Banheira, Box
 Sala :: Móveis
 Cozinha :: Móveis
 Móveis :: TV, Estante, Sofá, Poltrona, Cadeira
+```
